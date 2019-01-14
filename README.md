@@ -1,2 +1,2 @@
-# C-C-programs
-Useful C, C++ programs from institutes, past tests and internet.
+# C-Cpp-programs
+Useful C, Cpp programs from institutes, past tests and internet.
